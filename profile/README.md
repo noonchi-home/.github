@@ -1,10 +1,6 @@
 # NOONCHI
 
-NOONCHI is a decision-making prototype for LG CLOiD, built by Team Blitz for Hanyang University’s Software Engineering course. It notices when help might be useful, checks what it still needs to know, and decides whether to ask, wait, or act within the resident’s permissions.
-
-A phone camera provides observations. A vision-language model proposes assistance from recent observations and a memory of daily routines. The twin-home hub checks what the robot and appliances can do, revises plans when conditions change, and verifies the results.
-
-The demo follows a resident through cooking, dining, and rest. A demonstrator closes a refrigerator door on CLOiD’s behalf, a virtual dishwasher washes a cup, and ThinQ adjusts a physical air conditioner.
+NOONCHI is a proactive smart-home agent that uses household context to decide when to ask for clarification, when to wait, and when to act with the resident’s permission.
 
 [Read the NOONCHI Wiki](https://noonchi-home.github.io/wiki/)
 
