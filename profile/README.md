@@ -2,7 +2,7 @@
 
 NOONCHI is a smart-home agent prototype that adapts assistance to the resident’s activity.
 
-[Read the NOONCHI Wiki](https://noonchi-home.github.io/noonchi-wiki/)
+[Read the NOONCHI Wiki](https://noonchi-home.github.io/wiki/)
 
 ## Team
 
