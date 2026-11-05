@@ -1,6 +1,6 @@
 # NOONCHI
 
-NOONCHI is a proactive smart-home agent that uses household context to decide when to ask for clarification, when to wait, and when to act with the resident’s permission.
+NOONCHI is a proactive smart-home agent that adapts its help to the resident’s activity and intentions, asking when it is unsure what they want and waiting when stepping in would interrupt them.
 
 [Read the NOONCHI Wiki](https://noonchi-home.github.io/wiki/)
 
