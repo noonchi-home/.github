@@ -6,8 +6,8 @@ A Proactive Agentic Home for LG's home robot CLOiD. It watches daily life throug
 
 | Link | Contents |
 |---|---|
-| [Code](https://github.com/noonchi-home/noonchi) | Source code, architecture, getting started |
-| [Wiki](https://noonchi-home.github.io/wiki/) | Project overview, case studies, documents |
+| [Code](https://github.com/noonchi-home/noonchi) | Source code |
+| [Wiki](https://noonchi-home.github.io/wiki/) |  documents |
 
 ## Team
 
