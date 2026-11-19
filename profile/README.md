@@ -4,6 +4,8 @@ LG electronics · Software Engineering 26-2
 
 A Proactive Agentic Home for LG's home robot CLOiD. It watches daily life through a phone camera, predicts the person's next activity with a learned person-state FSM, and guides them step by step.
 
+## Quick Links
+
 | Link | Contents |
 |---|---|
 | [Code](https://github.com/noonchi-home/noonchi) | Source code |
