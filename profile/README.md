@@ -1,8 +1,13 @@
 # NOONCHI
 
-NOONCHI is a proactive smart-home system that considers what the resident is doing and what they want, using a digital twin to simulate possible actions before deciding whether to help, ask, or wait.
+LG electronics · Software Engineering 26-2
 
-[Read the NOONCHI Wiki](https://noonchi-home.github.io/wiki/) · [Browse the code (noonchi)](https://github.com/noonchi-home/noonchi)
+A Proactive Agentic Home for LG's home robot CLOiD. It watches daily life through a phone camera, predicts the person's next activity with a learned person-state FSM, and guides them step by step.
+
+| Link | Contents |
+|---|---|
+| [Code (noonchi)](https://github.com/noonchi-home/noonchi) | Source code, architecture, getting started |
+| [Wiki](https://noonchi-home.github.io/wiki/) | Project overview, case studies, documents |
 
 ## Team
 
