@@ -3,7 +3,7 @@
 **Agentic FSM for Proactive Home Robot**  
 LG Electronics · Software Engineering 26-2
 
-![NOONCHI poster](poster.png)
+![NOONCHI poster](poster-2026-11-27.png)
 
 NOONCHI is a prototype of the decision-making system for LG’s home robot CLOiD. It describes what the camera sees using a fixed vocabulary for posture, location, objects in hand, and the state of nearby objects. A resident sitting at the dining table, holding a cup, and bringing it to their mouth gives the robot evidence of a particular activity: drinking at the table.
 
